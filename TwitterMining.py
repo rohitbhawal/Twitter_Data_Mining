@@ -14,10 +14,10 @@ import pandas as pd
 import matplotlib.pyplot as myPlot
 import numpy as np
 
-ACCESS_TOKEN = "50281039-HBFr5FwydqOgdfJp5vp9BDrzkbcFSUh6tHx62OmXm"
-ACCESS_TOKEN_SECRET = "vGGFIE7NLmfRpbJbgZts4uQ5XTFgvO0X09khW1cn3ZopN"
-CONSUMER_KEY = "ipduBLHI5ekTnoOVojfCUyYOh"
-CONSUMER_SECRET = "cFfYdPwG4A6R3na3aZrFPwwu68OTMSE6AefMwXZzfrUxjfm6jl"
+ACCESS_TOKEN = "XXXXXXXXXX"
+ACCESS_TOKEN_SECRET = "XXXXXXXXX"
+CONSUMER_KEY = "XXXXXXXXXX"
+CONSUMER_SECRET = "XXXXXXXXXXX"
 
 TWEET_DATA_FILE = "TwitterData.txt"
 POSITIVE_DATA_FILE = "positive-words.txt"
